@@ -1,0 +1,1 @@
+function FindProxyForURL(url, host) { return "SOCKS 10.28.6.104:443"; }
